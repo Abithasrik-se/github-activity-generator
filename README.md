@@ -144,8 +144,5 @@ options:
 =======================================================
 ```
 
----
-
-## License
-
-MIT
+# Information
+strictly for students and practice purpose only not for professionals.
